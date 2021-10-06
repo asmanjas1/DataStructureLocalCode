@@ -1,6 +1,6 @@
 package com.string;
 
-public class StringQue {
+public class StringCobimeTwoStringsSoln {
 	
 	public static void main(String[] args) {
 		System.out.println(checkCombineIsValid("abc", "def", "dabecf"));
